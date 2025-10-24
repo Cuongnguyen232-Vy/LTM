@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ANHCUONG.iml" filepath="$PROJECT_DIR$/ANHCUONG.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src_TCP/src.iml" filepath="$PROJECT_DIR$/src_TCP/src.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src_RMI/src_RMI.iml" filepath="$PROJECT_DIR$/src_RMI/src_RMI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src_UDP/src_UDP.iml" filepath="$PROJECT_DIR$/src_UDP/src_UDP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src_WS/src_WS.iml" filepath="$PROJECT_DIR$/src_WS/src_WS.iml" />
     </modules>
   </component>
 </project>
